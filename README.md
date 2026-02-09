@@ -649,7 +649,7 @@ Install mern-chat-app using one of the following methods:
 
 1. Clone the mern-chat-app repository:
 	```
-	git clone https://github.com/pankil-soni/mern-chat-app
+	git clone https://github.com/saquib729/Real-Time-Chat-Application
 	```
 
 2. Navigate to the project directory:
@@ -750,12 +750,6 @@ Run mern-chat-app using the following command:
 ## 🎗 License
 
 This project is licensed under the MIT License and Free to use.
-
-## 📝 About the Author
-This project was developed by  me (**Pankil Soni**). Feel free to reach out with any questions or suggestions.
-- gmail - pmsoni2016@gmail.com
-- kaggle - https://www.kaggle.com/pankilsoni
-- LinkedIn - https://www.linkedin.com/in/pankil-soni-5a0541170/
 
 ## 🙌 Acknowledgments
 
