@@ -654,7 +654,7 @@ Install mern-chat-app using one of the following methods:
 
 2. Navigate to the project directory:
 	```
-	cd mern-chat-app
+	cd Real-Time-Chat-Application
 	```
 
 3. Setup Backend
